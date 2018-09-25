@@ -1,4 +1,4 @@
-# FormShop
+# FormShop (한국어 버전)
 
 ## Language: [Korean](#KOR) | 간략한 수정본
 <a name="KOR"></a>
