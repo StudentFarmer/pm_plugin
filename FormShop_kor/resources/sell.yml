@@ -1,0 +1,12 @@
+items:
+    #ID-Damage-<цена за штуку>-<название>-<ссылка на картинку>
+    #ID-Damage-<price for one>-<name>-<image url>
+    - "295-0-95-씨앗-https://t1.daumcdn.net/cfile/tistory/272E643B54D5EA4F12"
+    - "338-0-250-사탕 수수-https://t1.daumcdn.net/cfile/tistory/2123623754D5EA650F"
+    - "361-0-80-호박 씨앗-https://t1.daumcdn.net/cfile/tistory/27632F3854D5EB1D21"
+    - "362-0-80-수박 씨앗-https://t1.daumcdn.net/cfile/tistory/236CC83854D5EB1D17"
+    - "392-0-420-대홍단 감자-https://t1.daumcdn.net/cfile/tistory/24777A3354D5EB8C44"
+    - "391-0-420-당근-https://t1.daumcdn.net/cfile/tistory/2108BF3354D5EB8932"
+    - "86-0-590-호박-https://t1.daumcdn.net/cfile/tistory/24409A4A54D5E87629"
+    - "296-0-390-밀-https://t1.daumcdn.net/cfile/tistory/262D2C4054D5EDDF38"
+    - "360-0-145-수박-https://t1.daumcdn.net/cfile/tistory/2751C93854D5EB1C2F"
