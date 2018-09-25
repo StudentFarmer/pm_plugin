@@ -1,0 +1,5 @@
+name: SaveInven
+version: 1.2.0
+api: [4.0.0]
+author: anwlro0987
+main: save\Main
