@@ -1,0 +1,16 @@
+items:
+  name: "농산물 (씨앗)"
+ #이미지를 넣고자하는경우 아래처럼 작성하시고 이미지를 지우고자 하는경우 링크를 삭제해주세요.
+  image: "https://t1.daumcdn.net/cfile/tistory/262D2C4054D5EDDF38"
+  #아이템
+  items:
+#이양식을 가지고 작성해주시길 바랍니다.
+# -"아이템코드-보조번호-가격-이름-이미지주소"
+    - "8-0-550-물-https://t1.daumcdn.net/cfile/tistory/265CF73854D5EA5D25"
+    - "295-0-310-씨앗-https://t1.daumcdn.net/cfile/tistory/272E643B54D5EA4F12"
+    - "338-0-1000-사탕 수수-https://t1.daumcdn.net/cfile/tistory/2123623754D5EA650F"
+    - "351-15-100-비료-https://t1.daumcdn.net/cfile/tistory/273AA03454D5EB150B"
+    - "361-0-550-호박 씨앗-https://t1.daumcdn.net/cfile/tistory/27632F3854D5EB1D21"
+    - "362-0-550-수박 씨앗-https://t1.daumcdn.net/cfile/tistory/236CC83854D5EB1D17"
+    - "392-0-720-대홍단 감자 씨앗-https://t1.daumcdn.net/cfile/tistory/24777A3354D5EB8C44"
+    - "391-0-720-당근 씨앗-https://t1.daumcdn.net/cfile/tistory/2108BF3354D5EB8932"
