@@ -1,0 +1,8 @@
+name: FormShop
+main: ru\universalcrew\formshop\Home
+version: 1.1
+api:
+- 4.0.0
+author: egr7v8
+website: t.me/egr7v8
+load: POSTWORLD
