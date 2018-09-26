@@ -1,0 +1,13 @@
+name: SOLOWarp
+version: "5"
+api:
+- 4.0.0
+author: solo
+main: solo\SOLOWarp
+commands:
+  워프:
+    usage: /워프 [워프 이름]
+    description: 워프 관련 명령어
+  warp:
+    usage: /warp [워프 이름]
+    description: 워프 관련 명령어
