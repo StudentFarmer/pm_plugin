@@ -16,7 +16,7 @@ class item extends PluginBase implements Listener{
         }
         
 public function Main($i){
-if(($i->getItem()->getID()===351:6)){
+if(($i->getItem()->getID()===351,6)){
  $ef = new EffectInstance(Effect::getEffect(Effect::WATER_BREATHING), self::MAX_DURATION, 0);
 				
                 $player->addEffect($ef);
