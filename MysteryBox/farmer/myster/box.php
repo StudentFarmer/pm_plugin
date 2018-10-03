@@ -158,6 +158,36 @@ case 24:
 $player->sendMessage("§l§f[ §a팜 코인 §f] 슬라임블럭 1개에 당첨되었습니다.");
 $inventory->addItem ( Item::get ( 165, 0, 1 ) ) );
 break;
+
+case 25:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 덩불 3개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 106, 0, 3 ) ) );
+break;
+
+case 26:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 잭 오랜턴 1개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 91, 0, 1 ) ) );
+break;
+    
+case 27:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 제우스의 실수로 떨어진 불 1개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 51, 0, 1 ) ) );
+break;
+    
+case 28:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 다이아몬드 2개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 264, 0, 2 ) ) );
+break;
+    
+case 29:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 다이아몬드 5개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 264, 0, 5 ) ) );
+break;
+    
+case 30:
+$player->sendMessage("§l§f[ §a팜 코인 §f] 잔디 1개에 당첨되었습니다.");
+$inventory->addItem ( Item::get ( 2, 0, 2 ) ) );
+break;
 }
 }
 }
