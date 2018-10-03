@@ -186,7 +186,7 @@ break;
     
 case 30:
 $player->sendMessage("§l§f[ §a팜 코인 §f] 잔디 1개에 당첨되었습니다.");
-$inventory->addItem ( Item::get ( 2, 0, 2 ) ) );
+$inventory->addItem ( Item::get ( 2, 0, 1 ) ) );
 break;
 }
 }
